@@ -1,3 +1,4 @@
+(function(){
 var clearYammerInbox = function (interval) {
 	
 	setTimeout(function () {
@@ -31,3 +32,5 @@ var endTimer = function () {
 };
  
 clearYammerInbox(2000); 
+
+})();void(0);
